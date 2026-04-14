@@ -1,0 +1,187 @@
+[
+  {
+    "question": "Nexus என்றால் என்ன?",
+    "answer": "Nexus என்பது உங்கள் கிரிப்டோ டோக்கன்களை ஸ்டேக்கிங் செய்து Passive Rewards பெறும் தளம்.",
+    "category": "Basic"
+  },
+  {
+    "question": "அலுவலகம் உள்ளதா?",
+    "answer": "ஆம், Panama City-ல் அலுவலகம் உள்ளது. support@nexus.vin மூலம் தொடர்பு கொள்ளலாம்.",
+    "category": "Basic"
+  },
+  {
+    "question": "எதிர்கால திட்டம் என்ன?",
+    "answer": "பெரிய crypto community உருவாக்குவது மற்றும் blockchain security மேம்படுத்துவது.",
+    "category": "Basic"
+  },
+  {
+    "question": "புதிய பயனர் எப்படி பதிவு செய்வது?",
+    "answer": "Dashboard → Refer a friend மூலம் பதிவு செய்யலாம். சரியான details கொடுக்க வேண்டும்.",
+    "category": "Account"
+  },
+  {
+    "question": "ஸ்டேக்கிங் என்றால் என்ன?",
+    "answer": "Crypto tokens-ஐ lock செய்து blockchain-ஐ support செய்து rewards பெறுவது.",
+    "category": "Basic"
+  },
+  {
+    "question": "BVS plan என்றால் என்ன?",
+    "answer": "5 வருட காலம் கொண்ட staking plan. Fixed மற்றும் Regular options உள்ளது.",
+    "category": "Plans"
+  },
+  {
+    "question": "மீண்டும் stake செய்ய முடியுமா?",
+    "answer": "ஆம், maturity பிறகு மீண்டும் stake அல்லது top-up செய்யலாம்.",
+    "category": "Plans"
+  },
+  {
+    "question": "யாரெல்லாம் stake செய்யலாம்?",
+    "answer": "Email ID மற்றும் crypto wallet உள்ள யாரும் செய்யலாம்.",
+    "category": "Basic"
+  },
+  {
+    "question": "சிறந்த staking எது?",
+    "answer": "Team, community மற்றும் reward ratio அடிப்படையில் பல options dashboard-ல் இருக்கும்.",
+    "category": "Plans"
+  },
+  {
+    "question": "Rewards எப்படி கிடைக்கும்?",
+    "answer": "Regular staking monthly, fixed staking maturity-ல் கிடைக்கும்.",
+    "category": "Income"
+  },
+  {
+    "question": "Group Incentive என்றால் என்ன?",
+    "answer": "Left & Right business match ஆனதில் 8% incentive கிடைக்கும்.",
+    "category": "Income"
+  },
+  {
+    "question": "Ceiling என்றால் என்ன?",
+    "answer": "Staking amount அடிப்படையில் earning limit இருக்கும்.",
+    "category": "Income"
+  },
+  {
+    "question": "LBV & RBV எப்படி பார்க்கலாம்?",
+    "answer": "Dashboard-ல் Current Month Business Value பகுதியில் பார்க்கலாம்.",
+    "category": "Dashboard"
+  },
+  {
+    "question": "Group incentive loss எப்படி குறைக்கலாம்?",
+    "answer": "Left & Right equal business maintain செய்ய வேண்டும்.",
+    "category": "Income"
+  },
+  {
+    "question": "Withdrawal எவ்வளவு நேரம் ஆகும்?",
+    "answer": "சாதாரணமாக நிமிடங்களில். அதிகபட்சம் 48 மணி நேரம்.",
+    "category": "Finance"
+  },
+  {
+    "question": "Withdrawal charges உள்ளதா?",
+    "answer": "சில withdrawal-க்கு 0.1% charge இருக்கலாம்.",
+    "category": "Finance"
+  },
+  {
+    "question": "Referral bonus என்றால் என்ன?",
+    "answer": "Referral stake செய்தால் 10% bonus கிடைக்கும்.",
+    "category": "Income"
+  },
+  {
+    "question": "Email மாற்ற முடியுமா?",
+    "answer": "இல்லை. Password மட்டும் மாற்ற முடியும்.",
+    "category": "Account"
+  },
+  {
+    "question": "Password reset எப்படி?",
+    "answer": "Forgot password மூலம் email link பயன்படுத்தி reset செய்யலாம்.",
+    "category": "Account"
+  },
+  {
+    "question": "Support எப்படி தொடர்பு கொள்வது?",
+    "answer": "Dashboard ticket system அல்லது support@nexus.vin மூலம்.",
+    "category": "Support"
+  },
+  {
+    "question": "Available Balance என்றால் என்ன?",
+    "answer": "Staking rewards மற்றும் matured amounts இதில் சேரும்.",
+    "category": "Finance"
+  },
+  {
+    "question": "Earning Balance என்றால் என்ன?",
+    "answer": "Group incentive மற்றும் referral bonus இதில் சேரும்.",
+    "category": "Finance"
+  },
+  {
+    "question": "Staking Balance என்றால் என்ன?",
+    "answer": "Staking-க்கு பயன்படுத்தப்படும் balance.",
+    "category": "Finance"
+  },
+  {
+    "question": "Exchange Balance என்றால் என்ன?",
+    "answer": "Crypto store, transfer, withdraw செய்ய பயன்படும் wallet.",
+    "category": "Finance"
+  },
+  {
+    "question": "Club membership என்றால் என்ன?",
+    "answer": "Group incentive அடிப்படையில் club levels கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Decider Club என்றால் என்ன?",
+    "answer": "1000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Believer Club என்றால் என்ன?",
+    "answer": "7500 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Converter Club என்றால் என்ன?",
+    "answer": "30000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Builder Club என்றால் என்ன?",
+    "answer": "150000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Millennial Club என்றால் என்ன?",
+    "answer": "600000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "GenX Club என்றால் என்ன?",
+    "answer": "2500000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Lambo Club என்றால் என்ன?",
+    "answer": "10000000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Mooning Club என்றால் என்ன?",
+    "answer": "20000000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Oberon Club என்றால் என்ன?",
+    "answer": "30000000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Callisto Club என்றால் என்ன?",
+    "answer": "40000000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "Titan Club என்றால் என்ன?",
+    "answer": "50000000 GI அடைந்தால் கிடைக்கும்.",
+    "category": "Business"
+  },
+  {
+    "question": "யாருக்கு incentive கிடைக்காது?",
+    "answer": "3 மாதங்கள் active இல்லாத accounts incentive பெற முடியாது.",
+    "category": "Rules"
+  }
+]
